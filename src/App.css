@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header ul li{
+    @apply px-2
+}
+.bg-primary{
+    background: #9e30c0;
+}
+.bg-secondary{
+    background: #c6bade;
+}
+.clor{
+    color: #9e30c0;
+}
